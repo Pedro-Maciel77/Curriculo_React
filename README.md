@@ -6,25 +6,25 @@ O app exibe dados do desenvolvedor, incluindo nome, área de atuação e experi�
 
 🚀 Funcionalidades
 
-Exibição de perfil do desenvolvedor
+- Exibição de perfil do desenvolvedor
 
-Seção de experiências profissionais
+- Seção de experiências profissionais
 
-Cards com descrição de projetos
+- Cards com descrição de projetos
 
-Tags de tecnologias e áreas utilizadas
+- Tags de tecnologias e áreas utilizadas
 
-Interface responsiva e organizada
+- Interface responsiva e organizada
 
 🛠 Tecnologias utilizadas
 
-React Native
+- React Native
 
-Expo
+- Expo
 
-JavaScript
+- JavaScript
 
-@expo/vector-icons
+- @expo/vector-icons
 
 🚀 Como usar:
 Certifique-se de ter as dependências instaladas: npm install ou yarn install
