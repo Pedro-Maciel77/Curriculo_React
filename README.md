@@ -1,8 +1,8 @@
 # Portfolio Mobile – React Native
 
-Aplicativo mobile desenvolvido com React Native (Expo) que apresenta um portfólio profissional com informações pessoais e experiências em projetos de tecnologia.
+Aplicativo mobile desenvolvido com React Native (Expo) que apresenta um portfólio profissional com minhas informações e experiências em projetos de tecnologia.
 
-O app exibe dados do desenvolvedor, incluindo nome, área de atuação e experiências profissionais, organizados em uma interface moderna com cartões.
+O app exibe meus dados mostrando o nome, área de atuação e experiências acadêmicas, organizados em uma interface moderna com cartões.
 
 🚀 Funcionalidades
 
